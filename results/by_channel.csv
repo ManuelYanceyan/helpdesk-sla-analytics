@@ -1,0 +1,5 @@
+group,tickets,closed,backlog,response_sla_pct,resolution_sla_pct,avg_resolution_hours,avg_csat
+Email,176,144,32,75.6,81.9,21.0,3.9
+Portal,144,119,25,86.8,79.8,21.7,3.57
+Phone,120,103,17,86.7,69.9,27.4,3.41
+Chat,40,30,10,85.0,73.3,19.7,3.92

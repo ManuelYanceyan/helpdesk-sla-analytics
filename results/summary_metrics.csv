@@ -1,0 +1,13 @@
+metric,value
+total_tickets,480.0
+closed_tickets,396.0
+open_backlog,84.0
+critical_backlog,8.0
+response_sla_pct,82.5
+resolution_sla_pct,77.5
+avg_first_response_minutes,182.0
+median_resolution_hours,15.3
+reopened_rate_pct,8.6
+average_csat,3.68
+csat_responses,308.0
+resolved_tickets,396.0
